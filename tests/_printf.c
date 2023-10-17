@@ -19,8 +19,8 @@ void cleanup(va_list args, buffer_t *output)
 
 /**
  * run_printf - This will read the format string for _printf.
- * @format: The character string that is to be printed which may
- * also include directives.
+ * @format: The character string that is to be printed which may also include
+ * directives.
  * @output: Buffer_t struct containing the buffer.
  * @args: The va_list of arguments.
  *
